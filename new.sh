@@ -94,7 +94,7 @@ sleep 3
 echo "RAM:for sec my heart was started running 130 miles/hr"
 sleep 3
 echo "BACKGROUND MUSIC BE LIKE"
-play /home/kali/Downloads/funny-telugu-chats-main/funny-telugu-chats-main/music.wav
+play /storage/downloads/music.wav
 echo "SHREYA:did it brust"
 sleep 3
 echo "RAM:sooo funny!"
@@ -127,7 +127,7 @@ echo "RAM:meet you at the bus stop"
 sleep 3 
 echo "SHREYA:ok"
 sleep 3
-play /home/kali/Downloads/funny-telugu-chats-main/funny-telugu-chats-main/next.wav
+play /strorage/downloads/next.wav
 
 
 
