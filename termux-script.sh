@@ -127,7 +127,7 @@ echo "RAM:meet you at the bus stop"
 sleep 3 
 echo "SHREYA:ok"
 sleep 3
-play /strorage/downloads/next.wav
+play /storage/downloads/next.wav
 
 
 
